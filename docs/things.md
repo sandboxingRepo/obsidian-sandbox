@@ -6,6 +6,5 @@ dataview: true
 title: things
 ---
 
-reference:: [test2](test2)
-![CV.pdf](images/CV.pdf)
+reference:: [test2](./test%20folder/test2.md)
 banner:: test_img.png

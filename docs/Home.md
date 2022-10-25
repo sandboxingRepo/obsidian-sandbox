@@ -3,13 +3,14 @@ share: true
 mdlinks: true
 ---
 
-contents
-[test2](test%20folder/test2)
+after
+[test2](./test%20folder/test2.md)
 coucou
 
 modifier
 modifierdaz jkecj
 
-- [1 fichier](things)
-- [test2](test%20folder/test2)
-- [test note 2](test%20folder/test%20note%202)
+- [1 fichier](./things.md)
+- [test note 2](./test%20folder/test%20note%202.md)
+- [test](../test.md)
+- [test2](./test%20folder/test2.md)
