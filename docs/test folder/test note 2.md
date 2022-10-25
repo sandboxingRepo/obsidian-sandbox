@@ -4,6 +4,6 @@ category: "test folder"
 banner: "logo_lagendia.webp"
 ---
 
-Test contents
+Test after
 
-![[./test2|test2]]
+![test2](test2)
