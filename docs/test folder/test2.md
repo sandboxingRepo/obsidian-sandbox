@@ -6,4 +6,4 @@ before
 after
 
 
-![Ambre_PP.jpeg](../images/Ambre_PP.jpeg.md)
+![Ambre_PP.jpeg](../images/Ambre_PP.jpeg)
