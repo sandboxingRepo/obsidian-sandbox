@@ -1,9 +1,10 @@
 ---
 share: true
+repo: ["sandboxingRepo/obsidian-sandbox/main", "ObsidianPublisher/github-publisher-test/main"]
+autoclean: false
 ---
+before
+after
 
-![[Home]]
 
-![[images/CV.pdf]]
-
-![[images/CV.pdf]]
+![Ambre_PP.jpeg](./images/Ambre_PP.jpeg)
