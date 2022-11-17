@@ -1,12 +1,12 @@
 ---
 share: true
-repo: ["sandboxingRepo/obsidian-sandbox/main", "ObsidianPublisher/github-publisher-test/main"]
-autoclean:
- - false
- - true
+multipleRepo:
+ - repo:  obsidian-sandbox
+   branch: main
+   owner: sandboxingRepo
+ - repo: github-publisher-test
+   branch: main
+   owner: ObsidianPublisher
 ---
-before
-after
-
 
 ![Ambre_PP.jpeg](./images/Ambre_PP.jpeg)
