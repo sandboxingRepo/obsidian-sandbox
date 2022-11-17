@@ -1,9 +1,5 @@
 ---
 share: true
-multipleRepo:
- - repo:  obsidian-sandbox
-   branch: main
-   owner: sandboxingRepo
 ---
 ZEA.POEC ORAJ
 after
