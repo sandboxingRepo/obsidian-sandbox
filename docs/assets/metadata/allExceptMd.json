@@ -1,1 +1,42 @@
-"{\n  \"folders\": [\n    {\n      \"name\": \"\",\n      \"relativePath\": \"/\"\n    },\n    {\n      \"name\": \"Folder\",\n      \"relativePath\": \"Folder\"\n    },\n    {\n      \"name\": \"_test\",\n      \"relativePath\": \"_test\"\n    },\n    {\n      \"name\": \"test\",\n      \"relativePath\": \"Folder/test\"\n    }\n  ],\n  \"nonMdFiles\": [\n    {\n      \"name\": \"Ambre_PP.jpeg\",\n      \"basename\": \"Ambre_PP\",\n      \"relativePath\": \"Ambre_PP.jpeg\"\n    },\n    {\n      \"name\": \"tags.json\",\n      \"basename\": \"tags\",\n      \"relativePath\": \"tags.json\"\n    },\n    {\n      \"name\": \"test_img.png\",\n      \"basename\": \"test_img\",\n      \"relativePath\": \"test_img.png\"\n    },\n    {\n      \"name\": \"fast.js\",\n      \"basename\": \"fast\",\n      \"relativePath\": \"Folder/test/fast.js\"\n    }\n  ]\n}"
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Folder",
+      "relativePath": "Folder"
+    },
+    {
+      "name": "_test",
+      "relativePath": "_test"
+    },
+    {
+      "name": "test",
+      "relativePath": "Folder/test"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "Ambre_PP.jpeg",
+      "basename": "Ambre_PP",
+      "relativePath": "Ambre_PP.jpeg"
+    },
+    {
+      "name": "tags.json",
+      "basename": "tags",
+      "relativePath": "tags.json"
+    },
+    {
+      "name": "test_img.png",
+      "basename": "test_img",
+      "relativePath": "test_img.png"
+    },
+    {
+      "name": "fast.js",
+      "basename": "fast",
+      "relativePath": "Folder/test/fast.js"
+    }
+  ]
+}
