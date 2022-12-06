@@ -23,6 +23,25 @@
     "relativePath": "Sans titre.md"
   },
   {
+    "fileName": "index",
+    "relativePath": "index.md",
+    "frontmatter": {
+      "test": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    }
+  },
+  {
     "fileName": "Home",
     "relativePath": "Home.md",
     "frontmatter": {
@@ -81,25 +100,6 @@
       "Némo dessin",
       "dessin"
     ]
-  },
-  {
-    "fileName": "index",
-    "relativePath": "index.md",
-    "frontmatter": {
-      "test": true,
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "col": 3,
-          "offset": 18
-        }
-      }
-    }
   },
   {
     "fileName": "test2",
