@@ -1,1 +1,172 @@
-"[\n  {\n    \"fileName\": \"truc\",\n    \"relativePath\": \"_test/truc.md\",\n    \"frontmatter\": {\n      \"share\": true,\n      \"position\": {\n        \"start\": {\n          \"line\": 0,\n          \"col\": 0,\n          \"offset\": 0\n        },\n        \"end\": {\n          \"line\": 2,\n          \"col\": 3,\n          \"offset\": 19\n        }\n      }\n    }\n  },\n  {\n    \"fileName\": \"Sans titre\",\n    \"relativePath\": \"Sans titre.md\"\n  },\n  {\n    \"fileName\": \"Home\",\n    \"relativePath\": \"Home.md\",\n    \"frontmatter\": {\n      \"share\": true,\n      \"mdlinks\": true,\n      \"position\": {\n        \"start\": {\n          \"line\": 0,\n          \"col\": 0,\n          \"offset\": 0\n        },\n        \"end\": {\n          \"line\": 3,\n          \"col\": 3,\n          \"offset\": 33\n        }\n      }\n    },\n    \"links\": [\n      {\n        \"link\": \"test2\",\n        \"relativePath\": \"Folder/test/test2.md\"\n      }\n    ]\n  },\n  {\n    \"fileName\": \"Folder\",\n    \"relativePath\": \"Folder.md\",\n    \"tags\": [\n      \"mnémosyne\",\n      \"illustration\"\n    ],\n    \"frontmatter\": {\n      \"date\": \"17-10-2021\",\n      \"description\": \"Illustration — Dessin de Némo\",\n      \"category\": \"Compendium/Mnémosyne\",\n      \"alias\": \"Illustration, Némo dessin, dessin\",\n      \"type\": \"Illustration\",\n      \"share\": true,\n      \"title\": \"Illustration\",\n      \"position\": {\n        \"start\": {\n          \"line\": 0,\n          \"col\": 0,\n          \"offset\": 0\n        },\n        \"end\": {\n          \"line\": 11,\n          \"col\": 3,\n          \"offset\": 223\n        }\n      }\n    },\n    \"aliases\": [\n      \"Illustration\",\n      \"Némo dessin\",\n      \"dessin\"\n    ]\n  },\n  {\n    \"fileName\": \"index\",\n    \"relativePath\": \"index.md\",\n    \"frontmatter\": {\n      \"test\": true,\n      \"position\": {\n        \"start\": {\n          \"line\": 0,\n          \"col\": 0,\n          \"offset\": 0\n        },\n        \"end\": {\n          \"line\": 2,\n          \"col\": 3,\n          \"offset\": 18\n        }\n      }\n    }\n  },\n  {\n    \"fileName\": \"test2\",\n    \"relativePath\": \"Folder/test/test2.md\",\n    \"tags\": [\n      \"tags\"\n    ],\n    \"frontmatter\": {\n      \"share\": true,\n      \"baselink\": \"Prout\",\n      \"position\": {\n        \"start\": {\n          \"line\": 0,\n          \"col\": 0,\n          \"offset\": 0\n        },\n        \"end\": {\n          \"line\": 3,\n          \"col\": 3,\n          \"offset\": 37\n        }\n      }\n    },\n    \"backlinks\": [\n      {\n        \"fileName\": \"Home\",\n        \"link\": \"test2\",\n        \"relativePath\": \"Home.md\"\n      },\n      {\n        \"fileName\": \"1 fichier\",\n        \"link\": \"test2\",\n        \"relativePath\": \"Folder/1 fichier.md\"\n      }\n    ]\n  },\n  {\n    \"fileName\": \"PC\",\n    \"relativePath\": \"Folder/test/PC.md\"\n  },\n  {\n    \"fileName\": \"1 fichier\",\n    \"relativePath\": \"Folder/1 fichier.md\",\n    \"frontmatter\": {\n      \"share\": true,\n      \"mdlinks\": true,\n      \"embed\": true,\n      \"dataview\": true,\n      \"title\": \"things\",\n      \"position\": {\n        \"start\": {\n          \"line\": 0,\n          \"col\": 0,\n          \"offset\": 0\n        },\n        \"end\": {\n          \"line\": 6,\n          \"col\": 3,\n          \"offset\": 74\n        }\n      }\n    },\n    \"links\": [\n      {\n        \"link\": \"test2\",\n        \"relativePath\": \"Folder/test/test2.md\"\n      }\n    ]\n  }\n]"
+[
+  {
+    "fileName": "truc",
+    "relativePath": "_test/truc.md",
+    "frontmatter": {
+      "share": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 19
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Sans titre",
+    "relativePath": "Sans titre.md"
+  },
+  {
+    "fileName": "Home",
+    "relativePath": "Home.md",
+    "frontmatter": {
+      "share": true,
+      "mdlinks": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 33
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "test2",
+        "relativePath": "Folder/test/test2.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Folder",
+    "relativePath": "Folder.md",
+    "tags": [
+      "mnémosyne",
+      "illustration"
+    ],
+    "frontmatter": {
+      "date": "17-10-2021",
+      "description": "Illustration — Dessin de Némo",
+      "category": "Compendium/Mnémosyne",
+      "alias": "Illustration, Némo dessin, dessin",
+      "type": "Illustration",
+      "share": true,
+      "title": "Illustration",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 11,
+          "col": 3,
+          "offset": 223
+        }
+      }
+    },
+    "aliases": [
+      "Illustration",
+      "Némo dessin",
+      "dessin"
+    ]
+  },
+  {
+    "fileName": "index",
+    "relativePath": "index.md",
+    "frontmatter": {
+      "test": true,
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 18
+        }
+      }
+    }
+  },
+  {
+    "fileName": "test2",
+    "relativePath": "Folder/test/test2.md",
+    "tags": [
+      "tags"
+    ],
+    "frontmatter": {
+      "share": true,
+      "baselink": "Prout",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 37
+        }
+      }
+    },
+    "backlinks": [
+      {
+        "fileName": "Home",
+        "link": "test2",
+        "relativePath": "Home.md"
+      },
+      {
+        "fileName": "1 fichier",
+        "link": "test2",
+        "relativePath": "Folder/1 fichier.md"
+      }
+    ]
+  },
+  {
+    "fileName": "PC",
+    "relativePath": "Folder/test/PC.md"
+  },
+  {
+    "fileName": "1 fichier",
+    "relativePath": "Folder/1 fichier.md",
+    "frontmatter": {
+      "share": true,
+      "mdlinks": true,
+      "embed": true,
+      "dataview": true,
+      "title": "things",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 74
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "test2",
+        "relativePath": "Folder/test/test2.md"
+      }
+    ]
+  }
+]

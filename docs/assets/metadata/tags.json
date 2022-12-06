@@ -1,1 +1,23 @@
-"[\n  {\n    \"tag\": \"mnémosyne\",\n    \"tagCount\": 1,\n    \"relativePaths\": [\n      \"Folder.md\"\n    ]\n  },\n  {\n    \"tag\": \"illustration\",\n    \"tagCount\": 1,\n    \"relativePaths\": [\n      \"Folder.md\"\n    ]\n  },\n  {\n    \"tag\": \"tags\",\n    \"tagCount\": 1,\n    \"relativePaths\": [\n      \"Folder/test/test2.md\"\n    ]\n  }\n]"
+[
+  {
+    "tag": "mnémosyne",
+    "tagCount": 1,
+    "relativePaths": [
+      "Folder.md"
+    ]
+  },
+  {
+    "tag": "illustration",
+    "tagCount": 1,
+    "relativePaths": [
+      "Folder.md"
+    ]
+  },
+  {
+    "tag": "tags",
+    "tagCount": 1,
+    "relativePaths": [
+      "Folder/test/test2.md"
+    ]
+  }
+]
