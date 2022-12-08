@@ -3,4 +3,4 @@ share: true
 baselink: "Prout"
 ---
 
-[[PC|PC]]
+[[../../PC|PC]]
