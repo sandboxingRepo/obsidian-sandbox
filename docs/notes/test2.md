@@ -7,4 +7,4 @@ multipleRepo:
    autoclean: true
 ---
 
-![PC](PC)
+![wiki](wiki.md)
