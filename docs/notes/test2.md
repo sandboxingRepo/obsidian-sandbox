@@ -3,4 +3,4 @@ share: true
 baselink: "Prout"
 ---
 
-![[PC|Prout]]
+![Prout](../../PAS%20PC.md)
