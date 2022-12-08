@@ -3,4 +3,4 @@ share: true
 baselink: "Prout"
 ---
 
-![Prout](PC)
+![Prout](Prout.md)
