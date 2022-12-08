@@ -6,5 +6,4 @@ multipleRepo:
    owner: sandboxingRepo
    autoclean: true
 ---
-
-![PC](PC)
+![wiki](wiki.md)
