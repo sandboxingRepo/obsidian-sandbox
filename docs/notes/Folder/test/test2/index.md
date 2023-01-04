@@ -1,4 +1,5 @@
 ---
 share: true
+cssclass: test
 ---
 
