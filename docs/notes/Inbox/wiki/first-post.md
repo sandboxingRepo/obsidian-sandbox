@@ -5,7 +5,7 @@ title: first post
  
 
 [new post](new%20post.md)
-
+[[./post-G2|new post]]
 
  
 
