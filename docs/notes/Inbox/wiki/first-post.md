@@ -4,8 +4,8 @@ title: first post
 ---
  
 
-[./post-G2](./post-G2)
-[[./post-G2|]]
+[new post](new%20post)
+[[new post|]]
 
  
 
