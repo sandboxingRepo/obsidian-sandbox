@@ -5,7 +5,7 @@ title: first post
  
 
 
-[[new post|new post]]
+[[./post-G2|new post]]
 
  
 
