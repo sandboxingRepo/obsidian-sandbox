@@ -4,7 +4,7 @@ title: first post
 ---
  
 
-[new post](./post-G2)
+[new post](./post-G2.md)
 [new post](./post-G2.md)
 
  
