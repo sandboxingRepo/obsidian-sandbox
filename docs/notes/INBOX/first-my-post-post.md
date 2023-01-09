@@ -1,6 +1,6 @@
 ---
 share: true
-title: first post
+title: first my post post
 ---
 
 
@@ -8,11 +8,11 @@ title: first post
 
 [new post](./wiki/post-G2.md)
 
-[post-1](first-post.md)
+[post-1](first-my-post-post.md)
 
 [new post](./wiki/post-G2.md)
 
-[post-1](first-post.md)
+[post-1](first-my-post-post.md)
    
 
 # soft2
