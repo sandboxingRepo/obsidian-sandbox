@@ -5,11 +5,11 @@ category: wiki
 ---
 
  
-[new post](post-G2.md)
+[new post](post-G2.md) // Same file
 
 [post-1](./first-post)
 
-[new post](post-G2.md)
+[new post](post-G2.md) //Same file
 
 [./first-post](post-1.md)
 
