@@ -5,15 +5,15 @@ category: wiki
 ---
 
  
-[new post](post-G2.md) // Same file
+[new post]((post-G2).md) // Same file
 
-[post-1](./first-post)
+[post-1]((./first-post))
 
-[new post](post-G2.md) //Same file
+[new post]((post-G2).md) //Same file
 
-[./first-post](post-1.md)
+[(./first-post)](post-1.md)
 
-![pic200](../../../assets/image/pic-1.svg)
+![pic200](pic|200(../../../assets/image/pic-1.svg))
 
  
 
