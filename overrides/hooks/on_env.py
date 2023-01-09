@@ -27,7 +27,7 @@ def obsidian_graph():
     return ""
 
 
-obsidian_graph()
+#obsidian_graph()
 
 
 def log(text):
