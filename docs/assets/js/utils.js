@@ -49,7 +49,7 @@ var p_search = /\.{2}\//gi
 const not_found = []
 var ht = document.querySelectorAll('a');
 for (var i = 0; i < ht.length; i++) {
-    //var link = UrlExists(ht[i], 0);
+    var link = UrlExists(ht[i], 0);
 }
 
 var p_img = /\.+\\/gi
