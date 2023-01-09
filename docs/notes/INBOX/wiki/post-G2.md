@@ -11,7 +11,7 @@ category: wiki
 
 [new post](post-G2.md) //Same file
 
-[./first-post](post-1.md)
+[./first-post](post-1.md) //error
 
 ![pic200](../../../assets/image/pic-1.svg)
 
