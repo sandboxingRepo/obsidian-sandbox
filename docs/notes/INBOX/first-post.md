@@ -6,13 +6,13 @@ title: first post
 
 # soft1
 
-[new post](./wiki/post-G2)
+[new post](./wiki/post-G2.md)
 
-[post-1](first-post)
+[post-1](first-post.md)
 
-[new post](./wiki/post-G2)
+[new post](./wiki/post-G2.md)
 
-[post-1](first-post)
+[post-1](first-post.md)
    
 
 # soft2
