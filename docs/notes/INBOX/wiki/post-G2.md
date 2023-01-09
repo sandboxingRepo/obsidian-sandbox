@@ -8,7 +8,7 @@ tags:
 ---
 
 
-#removethistag #removethisTags
+#removethistag
 
 # top1
 [new post](post-G2.md) // Same file
