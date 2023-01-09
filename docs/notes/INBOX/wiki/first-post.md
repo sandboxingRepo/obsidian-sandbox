@@ -4,30 +4,26 @@ title: first post
 ---
 
 
- 
+# soft1
 
-[**new post**](./post-G2.md)
+[new post](./post-G2.md)
 
-[**post-1**](first-post)
+[post-1](first-post.md)
 
-[*new post*](./post-G2.md)
+[new post](./post-G2.md)
 
-[==first-post==](post-1.md)
+[post-1](first-post.md)
    
 
+# soft2
+
+![new post](./post-G2#top1.md)
 
 
 
+[new post](./post-G2#top1.md)
+[new post](./post-G2#top2.md)
 
- 
-
-![top1](new%20post.md 
-
-
-
-[new post-top1](new%20post.md 
-[new post-top2](new%20post.md 
-
-[new post-top1](INBOX/wiki/new%20post.md 
-[new post-top2](INBOX/wiki/new%20post.md 
+[new post](./post-G2#top1.md)
+[new post](./post-G2#top2.md)
 
