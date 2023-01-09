@@ -13,7 +13,7 @@ category: wiki
 
 [post-1](./first-post.md) //error
 
-![pic200](../../../assets/image/pic-1.svg.md)
+![pic200](../../../assets/image/pic-1.svg)
 
  
 
