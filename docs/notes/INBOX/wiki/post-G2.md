@@ -5,9 +5,9 @@ category: wiki
 ---
 
  
-[new post](INBOX/new%20post.md)
+[new post](post-G2.md)
 
-[post-1](INBOX/post-1.md)
+[post-1](./first-post)
 
 [new post](post-G2.md)
 
