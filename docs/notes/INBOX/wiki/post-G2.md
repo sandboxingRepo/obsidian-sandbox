@@ -10,24 +10,24 @@ tags:
 
 
 # top1
-[new post](post-G2.md) // Same file
+[new post](post-G2) // Same file
 
-[post-1](./first-post.md)
+[post-1](./first-post)
 
-[new post](post-G2.md) //Same file
+[new post](post-G2) //Same file
 
-[post-1](./first-post.md) //error
+[post-1](./first-post) //error
 
 ![pic200](../../../assets/image/pic-1.svg)
 
 # top2
 
-![post-1](./first-post#soft1.md)
+![post-1](./first-post.md#soft1)
 
 
 
-[post-1](./first-post#soft1.md)
-[post-1](./first-post#soft2.md)
+[post-1](./first-post.md#soft1)
+[post-1](./first-post.md#soft2)
 
-[post-1](./first-post#soft1.md)
-[post-1](./first-post#soft2.md)
+[post-1](./first-post.md#soft1)
+[post-1](./first-post.md#soft2)
