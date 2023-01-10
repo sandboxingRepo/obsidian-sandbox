@@ -18,7 +18,7 @@ tags:
 
 [../first-my-post-post](../first-my-post-post) //error
 
-![pic|200](../../../assets/image/pic-1.svg)
+![pic200](../../../assets/image/pic-1.svg)
 
 # top2
 
@@ -33,7 +33,7 @@ tags:
 [../first-my-post-post-soft2](../first-my-post-post#soft2)
 
 see [[post-1#^f6d760]]
-See [post1](../first-my-post-post#^f6d760)
+See [post1](post-1#^f6d760)
 
-[[../first-my-post-post]]
-[title with space](../first-my-post-post#title with space)
+[[../first-my-post-post|post-1 > title with space]]
+[title with space](post-1#title with space)
