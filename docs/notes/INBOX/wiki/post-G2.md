@@ -10,11 +10,11 @@ tags:
 
 
 # top1
-[new post](INBOX/wiki/new%20post.md) // Same file
+[new post](post-G2.md) // Same file
 
 [post-1](../first-my-post-post.md)
 
-[new post](new%20post.md) //Same file
+[new post](post-G2.md) //Same file
 
 [post-1](../first-my-post-post.md) //error
 
@@ -35,3 +35,5 @@ tags:
 see [[post-1#^f6d760]]
 See [post1](post-1#^f6d760)
 
+[[../first-my-post-posttitle with space|post-1 > title with space]]
+[post-1 > title with space](../first-my-post-posttitle%20with%20spacetitle%20with%20space.md)
