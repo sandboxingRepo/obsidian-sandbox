@@ -16,7 +16,7 @@ tags:
 
 [new post](post-G2.md) //Same file
 
-[post-1]([post-1](../first-my-post-post.md).md) //error
+[post-1]([post-1](../first-my-post-post.md)) //error
 
 ![pic200](../../../assets/image/pic-1.svg.md)
 
@@ -26,11 +26,11 @@ tags:
 
 
 
-[post-1]([post-1](../first-my-post-post.md).md#soft1)
+[post-1]([post-1](../first-my-post-post.md#soft1))
 [post-1](../first-my-post-post.md#soft2)
 
-[post-1]([post-1]([post-1](../first-my-post-post.md).md).md#soft1)
-[post-1]([post-1](../first-my-post-post.md).md#soft2)
+[post-1]([post-1]([post-1](../first-my-post-post.md#soft1)))
+[post-1]([post-1](../first-my-post-post.md#soft2))
 
 see [[post-1#^f6d760]]
 See [post1](post-1#^f6d760)
