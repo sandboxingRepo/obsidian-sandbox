@@ -29,6 +29,8 @@ tags:
 
 [post-1](../first-my-post-post.md#soft1)
 
+[[../first-my-post-post#soft1|wikilinks]]
+
 [post-1](../first-my-post-post.md#soft2)
 
 [post-1](../first-my-post-post.md#soft1)
