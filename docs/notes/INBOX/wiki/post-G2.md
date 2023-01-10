@@ -22,18 +22,18 @@ tags:
 
 # top2
 
-![post-1](../first-my-post-post.mdsoft1)
+![post-1](../first-my-post-post.md#soft1)
 
 
 
-[post-1]([post-1](../first-my-post-post)soft1.mdsoft1)
-[post-1](../first-my-post-post.mdsoft2)
+[post-1]([post-1](../first-my-post-post#)soft1.md#soft1)
+[post-1](../first-my-post-post.md#soft2)
 
-[post-1]([post-1]([post-1](../first-my-post-post)soft1)soft1.mdsoft1)
-[post-1]([post-1](../first-my-post-post)soft2.mdsoft2)
+[post-1]([post-1]([post-1](../first-my-post-post#)#soft1)soft1.md#soft1)
+[post-1]([post-1](../first-my-post-post#)soft2.md#soft2)
 
 see [[post-1#^f6d760]]
 See [post1](post-1#^f6d760)
 
 [[../first-my-post-posttitle with space|post-1 > title with space]]
-[post-1 > title with space](../first-my-post-posttitle%20with%20space.mdtitle with space)
+[post-1 > title with space](../first-my-post-posttitle%20with%20space.md#title with space)
