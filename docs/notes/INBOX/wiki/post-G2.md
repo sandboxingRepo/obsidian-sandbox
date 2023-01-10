@@ -31,3 +31,6 @@ tags:
 
 [post-1](../first-my-post-post.md#soft1)
 [post-1](../first-my-post-post.md#soft2)
+
+see [[post-1#^f6d760]]
+See [post1](post-1#^f6d760)
