@@ -16,7 +16,7 @@ tags:
 
 [new post](new%20post.md) //Same file
 
-[post-1](../first-my-post-post.md.md) //error
+[post-1](../first-my-post-post.md) //error
 
 ![pic200](../../../assets/image/pic-1.svg)
 
