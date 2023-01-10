@@ -33,7 +33,7 @@ tags:
 [post-1](../first-my-post-post.md#soft2)
 
 see [[post-1#^f6d760]]
-See [post1](post-1#^f6d760)
+See [post-1 > ^f6d760](../first-my-post-post#%5Ef6d760.md)
 
 [[../first-my-post-post#title with space|post-1 > title with space]]
 [post-1 > title with space](../first-my-post-post.md#title%20with%20space)
