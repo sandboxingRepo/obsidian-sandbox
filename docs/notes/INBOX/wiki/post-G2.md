@@ -10,30 +10,30 @@ tags:
 
 
 # top1
-[new post](post-G2.md) // Same file
+[new post](INBOX/wiki/new%20post.md) // Same file
 
 [post-1](../first-my-post-post.md)
 
-[new post](post-G2.md) //Same file
+[new post](new%20post.md) //Same file
 
-[post-1]([post-1](../first-my-post-post.md)) //error
+[post-1](../first-my-post-post.md.md) //error
 
-![pic200](../../../assets/image/pic-1.svg.md)
+![pic200](../../../assets/image/pic-1.svg)
 
 # top2
 
-![post-1](../first-my-post-post.md#soft1)
+![post-1](post-1.md#soft1)
 
 
 
-[post-1]([post-1](../first-my-post-post.md#soft1))
-[post-1](../first-my-post-post.md#soft2)
+[post-1-soft1](post-1.md#soft1)
+[post-1-soft2](post-1.md#soft2)
 
-[post-1]([post-1]([post-1](../first-my-post-post.md#soft1)))
-[post-1]([post-1](../first-my-post-post.md#soft2))
+[post-1-soft1](post-1.md#soft1)
+[post-1-soft2](post-1.md#soft2)
 
 see [[post-1#^f6d760]]
 See [post1](post-1#^f6d760)
 
 [[../first-my-post-post|post-1 > title with space]]
-[post-1 > title with space](../first-my-post-post.md#title with space)
+[title with space](post-1#title with space)
