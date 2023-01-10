@@ -9,5 +9,5 @@ tags:
 
 
 
-[[../first-my-post-post#title with space|post-1 > title with space]]
-[[../first-my-post-post#^f6d760|post-1 > ^f6d760]]
+[post-1 > title with space](../first-my-post-post#title%20with%20space.md)
+[post-1 > ^f6d760](../first-my-post-post#%5Ef6d760.md)
