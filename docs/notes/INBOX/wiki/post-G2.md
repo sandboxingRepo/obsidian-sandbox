@@ -26,14 +26,14 @@ tags:
 
 
 
-[post-1]([post-1](../first-my-post-post)#soft1)
+[post-1]([post-1](../first-my-post-post#soft1)
 [post-1](../first-my-post-post#soft2)
 
-[post-1]([post-1]([post-1](../first-my-post-post))#soft1)
-[post-1]([post-1](../first-my-post-post)#soft2)
+[post-1]([post-1]([post-1](../first-my-post-post#soft1)
+[post-1]([post-1](../first-my-post-post#soft2)
 
 see [[post-1#^f6d760]]
 See [post1](post-1#^f6d760)
 
 [[../first-my-post-post|post-1 > title with space]]
-[post-1 > title with space](../first-my-post-post#title with space)
+[post-1 > title with space](../first-my-post-post#title%20with%20space#title with space)
