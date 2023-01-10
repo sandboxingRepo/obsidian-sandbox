@@ -10,11 +10,11 @@ tags:
 
 
 # top1
-[new post](post-G2.md) // Same file
+[new post](INBOX/wiki/new%20post.md) // Same file
 
 [post-1](../first-my-post-post.md)
 
-[new post](post-G2.md) //Same file
+[new post](new%20post.md) //Same file
 
 [post-1](../first-my-post-post.md) //error
 
