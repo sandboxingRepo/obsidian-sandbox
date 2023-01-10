@@ -22,19 +22,19 @@ tags:
 
 # top2
 
-![post-1](../first-my-post-post.md#soft1)
+![JE CITE UN TITRE](../first-my-post-post.md#soft1)
 
 
-[post-1](../first-my-post-post.md#soft1)
+[JE CITE UN TITRE](../first-my-post-post.md#soft1)
 
-[post-1](../first-my-post-post.md#soft1)
+[JE CITE UN TITRE](../first-my-post-post.md#soft1)
 
 [[../first-my-post-post#soft1|wikilinks]]
 
-[post-1](../first-my-post-post.md#soft2)
+[post-1-soft2](../first-my-post-post.md#soft2)
 
-[post-1](../first-my-post-post.md#soft1)
-[post-1](../first-my-post-post.md#soft2)
+[JE CITE UN TITRE](../first-my-post-post.md#soft1)
+[post-1-soft2](../first-my-post-post.md#soft2)
 
 see [[../first-my-post-post#^f6d760|post-1 > ^f6d760]]
 See [post-1 > ^f6d760](../first-my-post-post#^f6d760.md)
