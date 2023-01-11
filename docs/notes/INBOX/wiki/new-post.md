@@ -13,4 +13,4 @@ tags:
 [post-1 > ^f6d760](../post-1.md#^f6d760)
 
 ![Ambre|200](../../../assets/image/Ambre_PP.jpeg)
-[Ambre_PP](../../../assets/image/Ambre_PP.jpeg)
+![+side](../../../assets/image/Ambre_PP.jpeg)
