@@ -1,0 +1,45 @@
+name: Get lastest release from template
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Get latest release
+        id: latest_release
+      - name: Get release from template
+        uses: robinraju/release-downloader@v1.7
+        with:
+          latest: true
+          fileName: "changed_files.zip"
+          repository: "ObsidianPublisher/follow_template"
+      - name: Unzip changed files
+        run: |
+          unzip -o changed_files.zip
+          rm changed_files.zip
+      - name: Commit changes on a new branch 
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git checkout -b update_repo
+          git add .
+          git commit -m "Update repo"
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Update from template
+          title: Update from template
+          body: |
+            Update from template
+          labels: |
+            update
+          branch: update_repo
+
+          
