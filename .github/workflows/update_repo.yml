@@ -11,8 +11,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: Get latest release
-        id: latest_release
       - name: Get release from template
         uses: robinraju/release-downloader@v1.7
         with:
