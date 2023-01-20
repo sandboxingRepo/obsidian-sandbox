@@ -12,7 +12,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Get release from template
-        uses: robinraju/release-downloader@v1.7
+        uses: robinraju/release-downloader@main
         with:
           latest: true
           fileName: "changed_files.zip"
@@ -26,7 +26,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Update from template
-          title: PR - Update from template
+          title: "[BUMP] Update from template"
           body: |
             files changed:
             ```
@@ -35,5 +35,6 @@ jobs:
           labels: |
             update
           branch: update_repo
+          delete-branch: true
 
           
