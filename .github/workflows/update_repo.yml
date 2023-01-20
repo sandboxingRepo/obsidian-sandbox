@@ -21,19 +21,12 @@ jobs:
         run: |
           unzip -o changed_files.zip
           rm changed_files.zip
-      - name: Commit changes on a new branch 
-        run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git checkout -b update_repo
-          git add .
-          git commit -m "Update repo"
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Update from template
-          title: Update from template
+          title: Update from follow_template
           body: |
             Update from template
           labels: |
