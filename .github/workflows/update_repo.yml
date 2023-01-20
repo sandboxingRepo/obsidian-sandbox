@@ -26,9 +26,12 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Update from template
-          title: Update from follow_template
+          title: PR - Update from template
           body: |
-            Update from template
+            files changed:
+            ```
+            $(git diff --name-only HEAD^ HEAD)
+            ```
           labels: |
             update
           branch: update_repo
