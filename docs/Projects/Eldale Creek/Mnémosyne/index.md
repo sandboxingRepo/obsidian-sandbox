@@ -12,4 +12,4 @@ title: "Mnémosyne — Relations"
 type: carnet
 ---
 
-![[../../../assets/img/Némo_Commission_BG_name.png|Némo_Commission_BG_name]]
+![[Némo_Commission_BG+name.png]]
