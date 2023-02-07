@@ -13,6 +13,7 @@ name: Mnémosyne
 share: true
 title: "Mnémosyne — Relations"
 type: carnet
+image: Némo_Commission_BG+name.png
 ---
 
-![[../assets/img/Némo_Commission_BG+name.png|Némo_Commission_BG+name]]
+contents
