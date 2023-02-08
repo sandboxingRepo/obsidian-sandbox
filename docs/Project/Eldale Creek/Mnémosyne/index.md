@@ -1,18 +1,23 @@
 ---
-category: 
-- Project
-- Eldale Creek
-- Mnémosyne
+category:
+  - Project
+  - Eldale Creek
+  - Mnémosyne
 dataview: true
 date: 14-11-2022
 description: Relations de Mnémosyne
 display: Carnet Relations
 links:
- convert: false
+  convert: false
 name: Mnémosyne
 share: true
-title: "Mnémosyne — Relations"
+title: Mnémosyne — Relations
 type: carnet
+tags:
+  - inlines-tags
 ---
 
+
 ![[../../../assets/img/Némo_Commission_BG+name.png|Némo_Commission_BG+name]]
+#inlines-tags
+
