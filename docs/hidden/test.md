@@ -1,0 +1,5 @@
+---
+share: true
+---
+
+LOREM IPSUM
