@@ -1,7 +1,7 @@
 ---
 share: true
 title: first my post post
-path: /
+path: ""
 tags:
   - specific_tags
 ---
