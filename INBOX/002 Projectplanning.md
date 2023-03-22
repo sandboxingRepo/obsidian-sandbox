@@ -1,12 +1,8 @@
 ---
 share: true
-title: 002 Projectplanning.md
+name: prout
 ---
 
-coucou
-
-hello
-zkeAOEEZA
-Z
-
-https://www.mara-li.fr/hidden/post-1/
+![[pic-1.svg]]
+![[pic-1.svg]]
+![[Inbox_14-02-2023]]
