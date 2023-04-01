@@ -2,11 +2,10 @@
 share: true
 ---
 
-## test avec espace
+## test avec ESPACE
 
 coucou
 
 ## test 2
 
-[[TEST1#test avec espace|test avec espace]]
-
+[test avec espace](TEST1test-avec-espace.md)
