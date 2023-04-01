@@ -8,5 +8,4 @@ coucou
 
 ## test 2
 
-[test avec espace](TEST1.md#test%20avec%20espace)
-
+[test avec espace](#test%20avec%20espace)
