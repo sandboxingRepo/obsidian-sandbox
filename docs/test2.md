@@ -1,6 +1,6 @@
 ---  
 share: true  
-shortRepo: [test, sandbox]  
+shortRepo: [test, default]  
 ---  
   
 ![](./attachments/IMG-1684401200837.png)  
