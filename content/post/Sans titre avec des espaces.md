@@ -7,9 +7,9 @@ menu: true
 ---
 
 
-[[./test2#Équipements|test2 > Équipements]]
+[test2 > Équipements](test2.md#Équipements)
 
-[[./test2#Équipements|coucou]]
+[coucou](test2.md#Équipements)
 
-[[./test2#^9161d1|test2]] 
+[test2](test2.md#^9161d1) 
 
