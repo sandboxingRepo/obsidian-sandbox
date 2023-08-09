@@ -7,5 +7,5 @@ menu: true
 ---
 
 
--> [[./test2#Équipements|test2 > Équipements]]
+-> [test2#Équipements](test2.md#Équipements)
 
