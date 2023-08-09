@@ -4,6 +4,7 @@ icon: font-awesome-brands/BloggerB
 category: truc
 sh: cc
 menu: true
+removeEmbed: true
 ---
 
 
