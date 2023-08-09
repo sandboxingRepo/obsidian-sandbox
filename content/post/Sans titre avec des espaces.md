@@ -5,4 +5,6 @@ category: truc
 sh: cc
 menu: true
 ---
+
+
 ![test2](/images/test2)
