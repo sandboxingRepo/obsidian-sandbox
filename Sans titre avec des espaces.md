@@ -6,6 +6,8 @@ sh: cc
 menu: true  
 ---  
   
+> [!note]  
+> This works  
   
-> [!info] coucou  
-> info
+> [!note] Custom title   
+> This breaks
