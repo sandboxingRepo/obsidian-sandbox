@@ -7,8 +7,5 @@ menu: true
 path: "/"  
 ---  
   
-> [!note]  
-> This works  
-  
-> [!note] Custom title   
-> This breaks
+inline citation works ?  
+![test2](test2.md)
