@@ -1,7 +1,7 @@
   
 inline citation works ?  
   
-![[./test2|test2]]<p style="text-align: center;font-weight:bold">━━━─── • ───━━━</p><h1 style="text-align:right">⌈ TECHNOMAGE ⌋</h1>  
+<p style="text-align: center;font-weight:bold">━━━─── • ───━━━</p><h1 style="text-align:right">⌈ TECHNOMAGE ⌋</h1>  
   
 Ashling a trouvé le moyen d'utiliser son pouvoir de manière inversée : Au lieu de projeter son esprit dans les objets et données électroniques, Ashling tire les données et les utilise pour créer n'importe quel objet, mais aussi créer des sortilèges. ^9161d1  
   
