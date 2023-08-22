@@ -9,9 +9,7 @@ path: "/"
   
 inline citation works ?  
   
-  
-  
-contents  
+test  
   
 ## Équipements  
   
