@@ -9,7 +9,7 @@ path: "/"
   
 inline citation works ?  
   
-test  
+![test](INBOX/test.md)  
   
 ## Équipements  
   
