@@ -5,7 +5,6 @@ category: truc
 sh: cc  
 menu: true  
 path: /  
-publish: true  
 ---  
   
 inline citation works ?  
