@@ -16,7 +16,6 @@ inline citation works ?
   
 Ashling possède maintenant un masque qui lui permet de voir ses statistiques, ses cooldowns et ses buffs.  
   
-  
 </div>  
   
   
