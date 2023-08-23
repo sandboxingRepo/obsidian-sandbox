@@ -4,12 +4,12 @@ icon: font-awesome-brands/BloggerB
 category: truc  
 sh: cc  
 menu: true  
-path: "/"  
+path: /  
 ---  
   
 inline citation works ?  
   
-![test](INBOX/test.md)  
+  
   
 ## Équipements  
   
