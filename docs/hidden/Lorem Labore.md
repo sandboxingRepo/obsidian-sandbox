@@ -34,4 +34,4 @@ veniam eiusmod laborum ea dolor cupidatat non. Nisi reprehenderit
 reprehenderit labore enim pariatur sit pariatur qui sit culpa amet sint  
 sint.  
   
-→ [Note 2 avec embeds](Note%202%20avec%20embeds.md)  
+→ [[./Embeds|Note 2 avec embeds]]  
