@@ -37,7 +37,7 @@ cillum nulla. Ut duis exercitation proident ad pariatur ad ut do ut nostrud
 veniam eiusmod laborum ea dolor cupidatat non. Nisi reprehenderit
 reprehenderit labore enim pariatur sit pariatur qui sit culpa amet sint
 sint.
-
+![[Pasted image 20230928165929.png|Pasted image 20230928165929.png]]
 → [[Note 2 avec embeds|Note 2 avec embeds]]
 
 zepazepkeapzek
