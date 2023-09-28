@@ -39,7 +39,7 @@ reprehenderit labore enim pariatur sit pariatur qui sit culpa amet sint
 sint.
 ![[Pasted image 20230928165929.png|Pasted image 20230928165929.png]]
 → [[Note 2 avec embeds|Note 2 avec embeds]]
-
+![[Pasted image 20230928170457.png|Pasted image 20230928170457.png]]
 COUCOU IMAGE TRANSFERT MOI
 
 ![[Pasted image 20230928170238.png|Pasted image 20230928170238.png]]
