@@ -41,3 +41,5 @@ sint.
 → [[Note 2 avec embeds|Note 2 avec embeds]]
 
 COUCOU IMAGE TRANSFERT MOI
+
+![[Pasted image 20230928170238.png|Pasted image 20230928170238.png]]
