@@ -1,7 +1,7 @@
 ---
 tags:
   - Lorem
-share: true
+share: "true"
 title: Embeds
 image:
   - "[image_test.png](image_test.png)"
