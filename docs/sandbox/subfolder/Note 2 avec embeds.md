@@ -1,30 +1,30 @@
 ---
 tags:
   - Lorem
-share: true
+share: "true"
 title: Embeds
 image:
-  - "[[image_test.png|image_test.png]]"
+  - "[image_test.png](image_test.png)"
 ---
 COUCOU IMAGE TRANSFERT MOI
 
 | File                                                                                           | share |
 | ---------------------------------------------------------------------------------------------- | ----- |
-| [[ObsidianPublisher Repository/Labore Culpa Culpa Eu Fugiat.md\|Labore Culpa Culpa Eu Fugiat]] | N/A   |
-| [[ObsidianPublisher Repository/New note again.md\|New note again]]                             | N/A   |
-| [[ObsidianPublisher Repository/Note 1.md\|Note 1]]                                             | true  |
-| [[sandbox/DRAFT.md\|DRAFT]]                                                                    | N/A   |
-| [[sandbox/Note 4.md\|Note 4]]                                                                  | N/A   |
-| [[sandbox/SANDBOX.md\|SANDBOX]]                                                                | N/A   |
-| [[sandbox/SHARE THIS.md\|SHARE THIS]]                                                          | N/A   |
-| [[sandbox/subfolder/Note 2 avec embeds.md\|Note 2 avec embeds]]                                | true  |
-| [[sandbox/subfolder/fix/eroerj er/coucou/coucou.md\|coucou]]                                   | N/A   |
-| [[sandbox/subfolder/fix/eroerj er/Hellloo.md\|Hellloo]]                                        | N/A   |
-| [[sandbox/subfolder/fix/eroerj er/new files.md\|new files]]                                    | N/A   |
-| [[sandbox/subfolder/fix/eroerj er/truc.md\|truc]]                                              | N/A   |
-| [[sandbox/subfolder/fix/eroerj er/test.md\|test]]                                              | N/A   |
-| [[test/test.md\|test]]                                                                         | N/A   |
-| [[_assets/_assets.md\|_assets]]                                                                | N/A   |
+| [Labore Culpa Culpa Eu Fugiat](../../../Labore%20Culpa%20Culpa%20Eu%20Fugiat) | N/A   |
+| [New note again](../../../New%20note%20again.md)                             | N/A   |
+| [Note 1](../../ObsidianPublisher%20Repository/Note%201.md)                                             | true  |
+| [DRAFT](../../../DRAFT.md)                                                                    | N/A   |
+| [Note 4](../../../Note%204.md)                                                                  | N/A   |
+| [SANDBOX](../../../SANDBOX.md)                                                                | N/A   |
+| [SHARE THIS](../../../SHARE%20THIS.md)                                                          | N/A   |
+| [Note 2 avec embeds](Note%202%20avec%20embeds.md)                                | true  |
+| [coucou](../../../coucou.md)                                   | N/A   |
+| [Hellloo](../../../Hellloo.md)                                        | N/A   |
+| [new files](../../../new%20files.md)                                    | N/A   |
+| [truc](../../../truc.md)                                              | N/A   |
+| [test](../../../test.md)                                              | N/A   |
+| [test](../../../test.md)                                                                         | N/A   |
+| [_assets](../../../_assets.md)                                                                | N/A   |
 
 
 
