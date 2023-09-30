@@ -4,7 +4,7 @@ tags:
 share: "true"
 title: Embeds
 image:
-  - "[image_test.png](image_test.png#)"
+  - "[image in frontmatter.png](image%20in%20frontmatter.png#)"
 ---
 COUCOU IMAGE TRANSFERT MOI
 
