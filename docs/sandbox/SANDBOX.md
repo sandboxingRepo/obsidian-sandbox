@@ -10,7 +10,7 @@ status: Backlog
 due: 2024-06-08
 weight: 79
 ---
-DJs : <span><span><p>79</p></span></span>
+DJs : <p><span><p>79</p></span></p>
 
 <b><span><p>DJs:: 79</p></span></b>
 
