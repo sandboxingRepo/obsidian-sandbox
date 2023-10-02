@@ -1,13 +1,1 @@
----
-tags:
-  - "#deserunt"
-  - "#officia"
-cssclasses:
-  - eiusmod
-aliases: 
-share: "true"
-status: Backlog
-due: 2024-06-08
-weight: 79
----
-DJs : `$=dv.current().weight`
+`$=dv.current().weight`
