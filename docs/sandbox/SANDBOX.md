@@ -85,7 +85,7 @@ date modified: Monday, October 2nd 2023, 1:06:28 pm
 # **SANDBOX**
 >[!info|bg-c-purple]- Overview
 > - A shipwright for House Ororos
->[!column|clean no-title] Characteristics
+> [!column|clean no-title] Characteristics
 >> [!metadata|bg-c-blue]+ Traits
 >> - N/A
 >
