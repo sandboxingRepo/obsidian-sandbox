@@ -1,8 +1,9 @@
 ---
 share: "true"
 ---
-[SANDBOX](../sandbox/SANDBOX.md)
+[[../sandbox/SANDBOX|SANDBOX]]
 
-[notpublished](notpublished.md)
+[[notpublished|notpublished]]
 
-[Note 2 avec embeds](../sandbox/subfolder/Note%202%20avec%20embeds.md)
+[[../sandbox/subfolder/Note 2 avec embeds|Note 2 avec embeds]]
+
