@@ -1,5 +1,5 @@
 ---
 share: "true"
 ---
-\![[../sandbox/SANDBOX|SANDBOX]]
+\![[SANDBOX]]
 
