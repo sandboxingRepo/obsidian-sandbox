@@ -1,12 +1,5 @@
 ---
 share: "true"
 ---
-```
-[[SANDBOX]]
-```
-
-
-`[[SANDBOX]]`
-
-[SANDBOX](../sandbox/SANDBOX.md)
+[[../sandbox/SANDBOX|SANDBOX]]
 
