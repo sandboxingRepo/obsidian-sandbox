@@ -2,11 +2,11 @@
 share: "true"
 ---
 ```
-[[SANDBOX|SANDBOX]]
+[[SANDBOX]]
 ```
 
 
-`[[SANDBOX|SANDBOX]]`
+`[[SANDBOX]]`
 
-[[../sandbox/SANDBOX|SANDBOX]]
+[SANDBOX](../sandbox/SANDBOX.md)
 
