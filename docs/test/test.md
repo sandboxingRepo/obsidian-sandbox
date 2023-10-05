@@ -2,10 +2,10 @@
 share: "true"
 ---
 ```
-[SANDBOX](SANDBOX.md#)
+[[../sandbox/SANDBOX|SANDBOX]]
 ```
 
 
-`[SANDBOX](SANDBOX.md#)`
+`[[../sandbox/SANDBOX|SANDBOX]]`
 
-[SANDBOX](SANDBOX.md#)
+[[../sandbox/SANDBOX|SANDBOX]]
