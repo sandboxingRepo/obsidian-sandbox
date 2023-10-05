@@ -11,7 +11,7 @@ due: 2024-06-08
 weight: 79
 type: pc
 linter-yaml-title-alias: "**SANDBOX**"
-art: "![75](er_dhampir-portrait_5.png#)"
+art: "![[er_dhampir-portrait_5.png|75]]"
 player: Griffin
 name: Stigs the Stiff
 aliases:
@@ -63,7 +63,7 @@ date modified: Monday, October 2nd 2023, 1:06:28 pm
 ---
 
 >[!infobox|left]  
->![vh-sm](er_dhampir-portrait_4.png#)
+>![[er_dhampir-portrait_4.png|vh-sm]]
 >###### Stats
 > > -  :fas_dice_d20: \+3 ⋅ :fas_running: 35ft
 > > - :rif_shield_star: 15 ⋅ :fas_heart: 12
@@ -103,8 +103,8 @@ date modified: Monday, October 2nd 2023, 1:06:28 pm
 >> - **Height:**  N/A 
 >> - **Weight:**  N/A 
 >> - **Occupation(s):**  Shipwright 
->> - **Group(s):**  [House Ororos](House%20Ororos#) 
->> - **Religion(s):**  [Er](Er#) 
+>> - **Group(s):**  [[House Ororos|House Ororos]] 
+>> - **Religion(s):**  [[Er|Er]] 
 >
 >> [!info|bg-c-gray]+ Other Info 
 >> - **Ancestry:**  Dhampir
