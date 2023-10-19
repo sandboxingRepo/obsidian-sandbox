@@ -4,7 +4,7 @@ tags:
 share: true
 title: Embeds
 ---
-![[../_assets/ObsidianPublisher Repository/Maman.png|Maman.png]]
+![Maman.png](../_assets/ObsidianPublisher%20Repository/Maman.png)
 
 
 
