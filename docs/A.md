@@ -2,6 +2,8 @@
 tags:
   - "#Lorem"
   - "#labore"
+  - Lorem
+  - labore
 cssclasses:
   - excepteur
 aliases: 
@@ -12,5 +14,6 @@ due: 2023-12-01
 weight: 72
 title: Lorem Labore
 ---
-[B](./B.md#) [Google](https://www.google.com) [C](./C.md#)
+
+[B](./folder/B.md#) [Google](https://www.google.com) [C](./folder/C.md#)
 
