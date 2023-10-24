@@ -15,4 +15,4 @@ weight: 72
 title: Lorem Labore
 ---
 
-[b](B.md#) [d](https://example.com) [c](C.md#)
+[b](B.md) [d](https://example.com) [c](C.md)
