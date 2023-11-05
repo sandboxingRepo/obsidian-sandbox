@@ -5,5 +5,5 @@ share: true
 title: Embeds
 ---
 
-[object Object]
+folder/C.md
 
