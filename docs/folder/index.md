@@ -1,6 +1,6 @@
 ---
 share: "true"
-title: folder
+truc: folder
 ---
 
 Ceci est une folder note !
