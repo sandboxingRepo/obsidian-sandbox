@@ -1,6 +1,7 @@
 ---
 share: true
-convert:\n\timage: "true"
+convert:
+  image: "true"
 ---
 
 machin
