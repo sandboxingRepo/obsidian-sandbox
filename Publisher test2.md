@@ -2,7 +2,7 @@
 share: true
 convert:
   image: "true"
-banner: "[[Pasted image 20231216135155-1.png]]"
+banner: "[[_assets/Pasted image 20231216135155-1.png]]"
 ---
 
 machin
