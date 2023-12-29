@@ -127,7 +127,7 @@ public interface WhatIsAGoodNameForThis {
 }
 ```
 
-
+![Pasted image 20231229063539](../../../images/obsidian/Pasted%20image%2020231229063539.png)
 
 **Example 2: Coupling through words**
 
