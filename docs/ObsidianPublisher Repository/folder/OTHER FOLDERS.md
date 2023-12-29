@@ -11,10 +11,10 @@ types:
   - Case Study
 ---
 
-![[image in frontmatter.png|image in frontmatter.png]]
+![](image%20in%20frontmatter.png)
 
 ```java
 coucou
 ```
 
-![[Pasted image 20230928170951.png|Pasted image 20230928170951.png]]
+![](Pasted%20image%2020231229203519.png)
