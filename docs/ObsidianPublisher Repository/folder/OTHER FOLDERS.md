@@ -11,4 +11,10 @@ types:
   - Case Study
 ---
 
-- [[|]]
+![[image in frontmatter.png|image in frontmatter.png]]
+
+```java
+coucou
+```
+
+![[Pasted image 20230928170951.png|Pasted image 20230928170951.png]]
