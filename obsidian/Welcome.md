@@ -2,6 +2,12 @@
 share: true
 ---
 
-```js
-console.log("JAVASCRIPT")
+test before
+
+```javascript
+console.log("hello")
 ```
+
+test before
+
+test before
