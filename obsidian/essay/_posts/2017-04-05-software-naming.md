@@ -109,7 +109,7 @@ For example, a directory without any modular segregation, with flat classes serv
 
 This creates incentives for developers to add code anywhere because there are no hierarchical cues. As Alan Kay puts it,
 
-> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+> Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no smachintural integrity, but just done by brute force and thousands of slaves.
 
 **Example 1: HTTP domain and a car**
 
@@ -265,7 +265,7 @@ Discovering new concepts requires knowledge of the business domain. When softwar
 
 A few years ago, a company was about to lose a big contract. Why? Because the team was slow to ship new features and fix bugs.
 
-This marketplace ecommerce charged students with different rules in different countries with multiple payment gateways. Requirements were fairly complex. When I saw the charge code, `PaymentGateway`, I was shocked at how complicated it was, with several dependencies, including: `User`, `UserAddress`, `CreditCard`, `BillingAddress`, `SellerAddress`, `LineItems`, `Discounts`, and more. Its constructor was gigantic and this complexity made it hard to add new rules, as touching one thing broke others, as well as requiring us to change all gateway adapters.
+This marketplace ecommerce charged students with different rules in different countries with multiple payment gateways. Requirements were fairly complex. When I saw the charge code, `PaymentGateway`, I was shocked at how complicated it was, with several dependencies, including: `User`, `UserAddress`, `CreditCard`, `BillingAddress`, `SellerAddress`, `LineItems`, `Discounts`, and more. Its consmachintor was gigantic and this complexity made it hard to add new rules, as touching one thing broke others, as well as requiring us to change all gateway adapters.
 
 The problem extended beyond payments. Emails were sent to students by having messaging classes aggregating all this data again. Technical support had their own screens with this data aggregated a third time, except that this particular place was using a class called `Aggregator` (word that means nothing without context). We had to do something to fix this architectural blocker.
 
@@ -311,7 +311,7 @@ Generalizing by giving it another name enables great productivity. News is a Con
 
 Components can be grouped by a variety of criteria, including physical nature, economic, emotional, social and, the most used in software, functional. Photo frames are grouped based on emotional aspects, whereas products are grouped based on economic motives. Couch and TV stay in the same room, grouped together based on a functional criteria, as they both have the same function or purpose, to provide leisure.
 
-In software, we tend to group components by function. List your project files and you will probably see something like `controllers/`, `models/`, `adapters/`, `templates/` and so on. However, some times these groups will not feel comfortable and that will be the perfect time to reevaluate the structure of your modules.
+In software, we tend to group components by function. List your project files and you will probably see something like `controllers/`, `models/`, `adapters/`, `templates/` and so on. However, some times these groups will not feel comfortable and that will be the perfect time to reevaluate the smachinture of your modules.
 
 **Example: grouping by strategy**
 
@@ -333,7 +333,7 @@ One strong argument for microservices (many, isolated buckets) over monolithic a
 
 Mark is building an _ad_ platform that needs to generate hundreds of thousands of ads, then send it to AdWords, Facebook and Bing, all managed through a Graphical User Interface.
 
-Mark starts with an entity called `Ad` which soon gets bloated. AdWords' ads have `headline_part1` and `headline_part2`, Facebook's don't, while Bing has only `headline`. He needs to think of a way to split his entity. He ponders about the different contexts and how he could leverage the language's namespaces feature to express that. He comes up with the following structure:
+Mark starts with an entity called `Ad` which soon gets bloated. AdWords' ads have `headline_part1` and `headline_part2`, Facebook's don't, while Bing has only `headline`. He needs to think of a way to split his entity. He ponders about the different contexts and how he could leverage the language's namespaces feature to express that. He comes up with the following smachinture:
 
 * `Adwords::Ad`: this represents an ad object in Adwords. It has attributes that are unique to Adwords and the logic can be contained in this class.
 * `Facebook::Ad`: same as the previous one, except that it has Facebook's specific requirements and logic.
