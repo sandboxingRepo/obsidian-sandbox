@@ -116,7 +116,7 @@ This creates incentives for developers to add code anywhere because there are no
 HTTP is a domain and it has requests and responses. If we were to put a component called _Car_ within it, we wouldn't be able to call it HTTP anymore. In this case, it becomes something confusing.
 
 ```java
-public interface WhatIsAGoodNameForThis {
+public interface StructureTrucForMachin {
 	
 	/* methods for a car */
 	public void gas();
