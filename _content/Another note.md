@@ -1,5 +1,6 @@
 ---
 public: true
+dataview: true
 ---
 
 
