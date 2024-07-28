@@ -18,6 +18,6 @@ dataviewjs block outside of callout:
     at DataviewApi.executeJs (plugin:dataview:19465:18)
     at DataviewCompiler.dataviewJS (plugin:obsidian-mkdocs-publisher:14548:22)
     at convertDataviewQueries (plugin:obsidian-mkdocs-publisher:14630:39)
-    at async mainConverting (plugin:obsidian-mkdocs-publisher:15055:10)</pre>
+    at async mainConverting (plugin:obsidian-mkdocs-publisher:15056:10)</pre>
 
 
