@@ -1,5 +1,5 @@
 ---
 share: true
 ---
-![[./fée|fée]]
+![[../Compendium/eden_eldale|eden_eldale]]
 
