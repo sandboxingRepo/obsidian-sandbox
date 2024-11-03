@@ -39,5 +39,5 @@ share_link: https://share.note.sx/zdsc1hjs
 share_updated: 2024-10-18T10:18:11+02:00
 ---
 
-![[../hidden/fée|fée]]
+![[../hidden/Eldale Creek/Éden Bonne-Étoile/fée|fée]]
 
