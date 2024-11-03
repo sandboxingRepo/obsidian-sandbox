@@ -1,4 +1,5 @@
 ---
+date: 2024-10-13
 share: true
 ---
 > [!borderwiki]
@@ -38,7 +39,7 @@ share: true
 > | **Intelligence** | |
 > | **Charisme** | |
 > | **Pouvoir** ||
-> | **PV** |  |
+> | **PV** | - |
 
 - __Régénération active__ : `1d6+2`
 	- Pendant ==cinq tours==, les dégâts finaux seront diminués de `-3` et les jets de pouvoirs sont inutilisables.
