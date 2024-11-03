@@ -1,5 +1,5 @@
 ---
 share: true
 ---
-FILE A
-#dataview
+![[./fée|fée]]
+
