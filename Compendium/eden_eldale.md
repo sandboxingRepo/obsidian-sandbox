@@ -32,6 +32,9 @@ Intelligence: 11
 Charisme: 3
 PV: "46"
 total: ""
+original:
+  - "[[20. AREA/Concepts/Personnages/Éden|Éden]]"
+  - "[[Ambre Loiseau|Ambre Loiseau]]"
 share_link: https://share.note.sx/zdsc1hjs
 share_updated: 2024-10-18T10:18:11+02:00
 ---
