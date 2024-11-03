@@ -1,6 +1,20 @@
 ---
 date: 2024-10-13
 share: true
+naissance: 1954-11-14
+disabled rules:
+  - heading-blank-lines
+dataview: true
+Pouvoir: 18
+Force: 18
+Endurance: 14
+Agilité: 10
+Constitution: 11
+Intelligence: 11
+Éducation: 3
+Charisme: 3
+PV: "46"
+total: ""
 ---
 > [!borderwiki]
 > # Éden Bonne-Étoile
@@ -8,9 +22,9 @@ share: true
 >
 > |  |  |
 > | ---- | ---- |
-> | **Âge** |  ans|
+> | **Âge** | 27 ans|
 > |**Sexe** | F |
-> | **Date de naissance** | |
+> | **Date de naissance** | 11/14/1954|
 > | **Taille** | 1.55 (ft. 5,08 ft.) |
 > | **Poids** | 50 kg (110.23 lbs.) |
 > | **Yeux** | Rouges |
@@ -31,15 +45,15 @@ share: true
 >
 > |        |     |
 > | ----------- | --- |
-> | **Force** |   |
-> | **Endurance** |  |
-> |**Agilité** |  |
-> |**Constitution** |  |
-> | **Éducation** |  |
-> | **Intelligence** | |
-> | **Charisme** | |
-> | **Pouvoir** ||
-> | **PV** | - |
+> | **Force** |  18 |
+> | **Endurance** | 14 |
+> |**Agilité** | 10 |
+> |**Constitution** | 11 |
+> | **Éducation** | 3 |
+> | **Intelligence** |11 |
+> | **Charisme** |3 |
+> | **Pouvoir** |18|
+> | **PV** | 46 |
 
 - __Régénération active__ : `1d6+2`
 	- Pendant ==cinq tours==, les dégâts finaux seront diminués de `-3` et les jets de pouvoirs sont inutilisables.
